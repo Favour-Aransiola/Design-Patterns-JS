@@ -1,0 +1,27 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "Welcome to **Design Patterns in JavaScript** – a practical guide to learning and applying software design patterns in modern JavaScript (ES6+).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Favour-Aransiola/Design-Patterns-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Favour-Aransiola/Design-Patterns-JS/issues"
+  },
+  "homepage": "https://github.com/Favour-Aransiola/Design-Patterns-JS#readme",
+  "dependencies": {
+    "jest": "^30.1.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
